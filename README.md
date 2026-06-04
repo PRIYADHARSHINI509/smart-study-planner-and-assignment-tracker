@@ -13,5 +13,18 @@ Organize academic activities.
 Track assignment deadlines.
 Improve study planning.
 Monitor assignment completion.
-Increase productivity.
+Increase productivity
 
+REQUIREMENTS : 
+
+Student Registration
+Student Login
+Subject Management
+Assignment Management
+Dashboard View
+Non Functional Requirements
+
+User Friendly Interface
+Fast Performance
+Secure Login
+Responsive Design
