@@ -33,5 +33,4 @@ USER & MODULE IDENTIFICATION :
 
 The primary user of the system is the student. The identified modules are User Management Module, Subject Management Module, Assignment Management Module, Dashboard Module, and Search Module. These modules help students manage subjects, assignments, deadlines, and academic progress efficiently.
 
-USE CASE DIAGRAM PREPARATION : 
 
