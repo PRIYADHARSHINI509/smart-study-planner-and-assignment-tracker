@@ -1,0 +1,38 @@
+# Database Requirement Analysis
+
+## Tables Required
+
+1. Student
+   - student_id
+   - name
+   - email
+   - password
+
+2. Subject
+   - subject_id
+   - subject_name
+   - faculty_name
+
+3. Assignment
+   - assignment_id
+   - title
+   - description
+   - due_date
+   - status
+
+4. StudyPlan
+   - plan_id
+   - study_date
+   - start_time
+   - end_time
+
+5. Progress
+   - progress_id
+   - task_name
+   - completion_status
+
+6. User
+   - user_id
+   - username
+   - password
+   - role
